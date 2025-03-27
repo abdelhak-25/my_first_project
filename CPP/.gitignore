@@ -1,0 +1,13 @@
+
+# استبعاد الملفات الشخصية والمجلدات غير المهمة
+*.log
+*.deb
+*.tar.gz
+*.tar.xz
+*.blend1
+.DS_Store
+.vscode/
+.cache/
+.config/
+.local/
+.python_history
